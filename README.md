@@ -5,6 +5,7 @@ I'm a Computer Engineering undergraduate at Vidyalankar Institute of Technology 
 - 🌍 Based in Kalyan, Maharashtra, India
 - 🎓 B.Tech in Computer Engineering (2023–2027) @ VIT, Mumbai
 - 🧮 190+ problems solved on LeetCode
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
   <img src="https://leetcode-badge-showcase.vercel.app/api?username={Pradnya_05}" alt="LeetCode Badges" />
 - 📧 Reach me: dhengalepradnya@gmail.com  
 - 🔗 LinkedIn: linkedin.com/in/pradnya-dhengale-8a795128a/
