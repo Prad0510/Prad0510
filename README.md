@@ -1,23 +1,23 @@
 # Hi, I'm Pradnya Dhengale 👋
 
-I'm a Computer Engineering undergraduate at Vidyalankar Institute of Technology (CGPI: 9.2/10), interested in building data‑driven applications, machine learning systems, and modern web/mobile experiences [file:19]. I enjoy turning ideas into working products and explaining models in a way that real users and businesses can trust [file:19].
+I'm a Computer Engineering undergraduate at Vidyalankar Institute of Technology (CGPI: 9.2/10), interested in building data‑driven applications, machine learning systems, and modern web/mobile experiences. I enjoy turning ideas into working products and explaining models in a way that real users and businesses can trust.  
 
-- 🌍 Based in Kalyan, Maharashtra, India
-- 🎓 B.Tech in Computer Engineering (2023–2027) @ VIT, Mumbai
-- 🧮 190+ problems solved on LeetCode
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username={Pradnya_05}" alt="LeetCode Badges" />
-- 📧 Reach me: dhengalepradnya@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/pradnya-dhengale-8a795128a/
-- 🔭 I’m currently working on explainability in fintech, focusing on behavioural credit risk models and their stability in real-world settings.
-- 🌱 I’m currently learning advanced ML models, computer vision, and finance concepts for data-driven decision-making.  
-- 👯 I’m looking to collaborate on applied ML projects in fintech, risk modelling, and explainable AI, as well as full‑stack apps that turn ML models into real products.
-  
+- 🌍 Based in Kalyan, Maharashtra, India  
+- 🎓 B.Tech in Computer Engineering (2023–2027) @ VIT, Mumbai  
+- 🧮 Solved 190+ problems on LeetCode  
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)  
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Pradnya_05" alt="LeetCode Badges" />  
+- 📧 Reach me: [dhengalepradnya@gmail.com](mailto:dhengalepradnya@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/pradnya-dhengale-8a795128a/](https://linkedin.com/in/pradnya-dhengale-8a795128a/)  
+- 🔭 I’m currently working on explainability in fintech, focusing on behavioural credit risk models and their stability in real-world settings.  
+- 🌱 I’m currently learning advanced ML models, computer vision with OpenCV, and finance concepts for data-driven decision-making.  
+- 👯 I’m looking to collaborate on applied ML projects in fintech, risk modelling, and explainable AI, as well as full‑stack apps that turn ML models into real products.  
+
 ---
 
 ## 🔧 Tech Stack
 
-**Languages & Databases**
+**Languages & Databases**  
 - Java, Python, C, MySQL, HTML, CSS, JavaScript
 
 **Frameworks & Libraries**
