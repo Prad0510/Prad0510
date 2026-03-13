@@ -1,6 +1,6 @@
 # Hi, I'm Pradnya 👋
 
-I'm a Computer Engineering undergraduate at Vidyalankar Institute of Technology, interested in building data‑driven applications, machine learning systems, and modern web/mobile experiences. I enjoy turning ideas into working products and explaining models in a way that real users and businesses can trust.  
+I'm a Computer Engineering undergraduate, interested in building data‑driven applications, machine learning systems, and modern web/mobile experiences. I enjoy turning ideas into working products and explaining models in a way that real users and businesses can trust.  
 
 - 🌍 Based in Kalyan, Maharashtra, India  
 - 🎓 B.Tech in Computer Engineering (2023–2027) @ VIT, Mumbai  
