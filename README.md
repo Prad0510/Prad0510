@@ -4,9 +4,6 @@ I'm a Computer Engineering undergraduate, interested in building data‑driven a
 
 - 🌍 Based in Kalyan, Maharashtra, India  
 - 🎓 B.Tech in Computer Engineering (2023–2027) @ VIT, Mumbai  
-- 🧮 Solved 190+ problems on LeetCode  
-  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)  
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Pradnya_05" alt="LeetCode Badges" />  
 - 📧 Reach me: [dhengalepradnya@gmail.com](mailto:dhengalepradnya@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/pradnya-dhengale-8a795128a/](https://linkedin.com/in/pradnya-dhengale-8a795128a/)  
 - 🔭 I’m currently working on explainability in fintech, focusing on behavioural credit risk models and their stability in real-world settings.  
