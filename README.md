@@ -2,7 +2,6 @@
 
 I'm a Computer Engineering undergraduate, interested in building data‑driven applications, machine learning systems, and modern web/mobile experiences. I enjoy turning ideas into working products and explaining models in a way that real users and businesses can trust.  
 
-- 🌍 Based in Kalyan, Maharashtra, India  
 - 🎓 B.Tech in Computer Engineering (2023–2027) @ VIT, Mumbai  
 - 📧 Reach me: [dhengalepradnya@gmail.com](mailto:dhengalepradnya@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/pradnya-dhengale-8a795128a/](https://linkedin.com/in/pradnya-dhengale-8a795128a/)  
