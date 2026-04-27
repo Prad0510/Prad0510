@@ -7,7 +7,6 @@ I'm a Computer Engineering undergraduate, interested in building data‑driven a
 - 🔗 LinkedIn: [linkedin.com/in/pradnya-dhengale-8a795128a/](https://linkedin.com/in/pradnya-dhengale-8a795128a/)  
 - 🔭 I’m currently working on explainability in fintech, focusing on behavioural credit risk models and their stability in real-world settings.  
 - 🌱 I’m currently learning advanced ML models, computer vision with OpenCV, and finance concepts for data-driven decision-making.  
-- 👯 I’m looking to collaborate on applied ML projects in fintech, risk modelling, and explainable AI, as well as full‑stack apps that turn ML models into real products.  
 
 ---
 
