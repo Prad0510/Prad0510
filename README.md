@@ -46,7 +46,7 @@ I'm a Computer Engineering undergraduate, interested in building data‑driven a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradnya0510&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradnya0510&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradnya0510&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pradnya0510&theme=vision-friendly-dark&hide_border=true)
 <!--
