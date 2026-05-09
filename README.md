@@ -10,7 +10,7 @@ I'm a Computer Engineering undergraduate, interested in building data‑driven a
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Languages & Databases  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,6 +42,16 @@ I'm a Computer Engineering undergraduate, interested in building data‑driven a
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradnya0510&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradnya0510&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Pradnya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradnya0510&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 <!--
 **Prad0510/Prad0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
